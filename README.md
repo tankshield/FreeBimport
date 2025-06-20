@@ -3,7 +3,7 @@
 
 # FreeBImport_v01
 
-**This is a fork of [io_import_fcstd](https://github.com/s-light/io_import_fcstd) by Yorik van Havre.**
+**This is a fork of [io_import_fcstd](https://github.com/s-light/io_import_fcstd) by Stefan Krüger (s-light) which is based on work by Yorik van Havre.**
 
 blender importer for FreeCAD files
 
