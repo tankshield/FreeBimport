@@ -12,7 +12,7 @@ blender importer for FreeCAD files
 ## About this fork
 
 - Original author: Yorik van Havre https://gist.github.com/yorikvanhavre/680156f59e2b42df8f5f5391cae2660b
-- For of Stefan Krüger (s-light) ([io_import_fcstd](https://github.com/s-light/io_import_fcstd))
+- Direct Fork of Stefan Krüger (s-light) ([io_import_fcstd](https://github.com/s-light/io_import_fcstd))
 - This fork was completely updated using [Cursor](https://www.cursor.so/) to add compatibility and new functionality for Blender 4.4, and to remove all unnecessary files and code for a cleaner, modern add-on experience.
 - Maintained by: tankshield
 
