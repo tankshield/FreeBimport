@@ -76,9 +76,6 @@ For more details, see the crash report in the Error Reporting folder.
 # License
 MIT License. See [LICENSE](./LICENSE).
 
-# Original Project
-Forked from [io_import_fcstd](https://github.com/s-light/io_import_fcstd) by Yorik van Havre.
-
 # TODO
 see the [issues for open points](https://github.com/s-light/io_import_fcstd/issues).
 
